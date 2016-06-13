@@ -1,5 +1,7 @@
 # IPython in depth tutorial
 
+[![Join the chat at https://gitter.im/mjbright/ipython-in-depth](https://badges.gitter.im/mjbright/ipython-in-depth.svg)](https://gitter.im/mjbright/ipython-in-depth?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In its current form, this tutorial is meant to be executed with IPython 2.0 or
 newer.  You can find our installation instructions [here](http://ipython.org/install.html).
 
